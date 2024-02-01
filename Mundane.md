@@ -16,9 +16,11 @@
   - [Character Lifespan](#character-lifespan)
   - [Fights](#fights)
   - [Ability checks](#ability-checks)
-- [Game Master](#game-master)
+- [Campaings](#campaings)
+  - [The starting point](#the-starting-point)
   - [Milestones](#milestones)
   - [Enemies](#enemies)
+  - [Example Campaign](#example-campaign)
   - [Other](#other)
 
 
@@ -329,30 +331,25 @@ If the resulting number is greater or equal to X, you succeed.\
 
 <hr>
 
-## Game Master
+## Campaings
+
+Campaigns consist of [a starting point](#the-starting-point) and [milestones](#milestones).
+
+<hr>
+
+### The starting point
+
+Your adventure needs to start somewhere. As a GM you need to decide where to place your groups characters to start of the adventure.\
+A good starting point already sets the campaign of with a challenge that needs to be tackeled.
+
+<hr>
 
 ### Milestones
 
-Campaigns are built out of Milestones that describe things, that need to happen for the story to end/the party to be successful.
-
-<!-- omit in toc -->
-#### Example Campaign
-The party comes together
-…
-A tree talks
-Gandalf dies
-…
-The orcs kill
-…
-The ring is destroyed
+Milestones describe things, that need to happen for the story to end/the party to be successful.\
+These could be noteable moments from your favourite book, movie, series or game, or just some things you want to see your players acomplish.
 
 These milestones can be fulfilled in **any order and by any means**. Sometimes keeping them vague could result in unexpected situations.
-
-<!-- omit in toc -->
-#### Example Session Result
-The party meets and immediately calls for the giant eagles to take them to the mountain, where they get Gandalf to swallow the ring and jump into the volcano.\
-As they arrive in the magical forest on the way back, they feast on the cooked eagles, who were killed by orcs. But there are no ents… why would there be ents?… no, these are just trees… But then Gandalf reappears as Gandalf the wise and invents a magic dung that makes trees sentient.\
-The end.
 
 <hr>
 
@@ -364,6 +361,32 @@ For boss enemies, you can expand their health-pool or bind them taking damage to
 [^5]: Destroying some sort of magical object, or making blood sacrifices…
 
 You can also introduce one-life cardboard soldiers at any time. They can try to do something against your party, but à la stormtrooper-aim, they won’t succeed very often. Just roll a d6 for each of them and let them hit on a 6.
+
+<hr>
+
+### Example Campaign
+
+<!-- omit in toc -->
+#### Starting Point
+
+The Shire
+
+<!-- omit in toc -->
+#### Milestones
+- The party sets off
+- …
+- A tree talks
+- Gandalf dies
+- …
+- The orcs kill
+- …
+- The ring is destroyed
+
+<!-- omit in toc -->
+#### Result
+The party meets and immediately calls for the giant eagles to take them to the mountain, where they get Gandalf to swallow the ring and jump into the volcano.\
+As they arrive in the magical forest on the way back, they feast on the cooked eagles, who were killed by orcs. But there are no ents… why would there be ents?… no, these are just trees… But then Gandalf reappears as Gandalf the wise and invents a magic dung that makes trees sentient.\
+The end.
 
 <hr>
 
