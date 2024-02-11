@@ -124,7 +124,7 @@ No one cares about them to the point that they can just resurrect after death, a
 
 <!-- omit in toc -->
 #### Support Role
-Dies the death of a hero and inspires other characters, giving everyone surrounding them **+1 on their first check in your spirit**. You can create a new character or take over an NPC the GM doesn’t particularly care about. The GM can also decide to resurrect you if they feel like it.
+Dies the death of a hero and inspires other characters, giving everyone surrounding them **+1 on their first check in their spirit**. They can create a new character or take over an NPC the GM doesn’t particularly care about. The GM can also decide to resurrect them if they feel like it.
 Support roles [SP](#specializations) can add up to 2 (or lower).
 
 <!-- omit in toc -->
@@ -176,7 +176,7 @@ The sum of specialization points (SP) will have to add up to 0 (or lower) at the
 | Masochist         | Whenever you take [damage](#character-lifespan) you have advantage[^6] on your next [ability check](#ability-checks). | +2 |
 | Beginners Luck    | You have advantage[^6] on any [ability check](#ability-checks) concerning something you have never done before. | +2 |
 | Useful            | <hr>        |    |
-| Special interest  | Xou can choose a **topic X** that you are particularly interested in. You will always succeed in [ability checks](#ability-checks) concerning **topic X**. | +3 |
+| Special interest  | You can choose a **topic X** that you are particularly interested in. You will always succeed in [ability checks](#ability-checks) concerning **topic X**. | +3 |
 | Threatening glare | In a [fight](#fights) you can intimidate the enemy, so that they will attack after your party. | +3 |
 | Powerful          | <hr>        |    |
 | Lucky Bastard     | You can reroll any [ability check](#ability-checks) once, if you want, but you have to take the second result. | +4 |
@@ -191,7 +191,7 @@ The sum of specialization points (SP) will have to add up to 0 (or lower) at the
 | :------------------ | :---------- | -: |
 | Inconvenient        | <hr>        |    |
 | Skill/Knowledge gap | Whenever you try to [check](#ability-checks) for something concerning a **topic X**, that you choose on character creation, you will automatically fail the check. | -1 |
-| Maniac              | On a [mood flip](#mood-shift) you will have to go anti-clockwise or clockwise depending on, which mood is lower in the [mood list](#moods).<br>(If you are a [brute](#brute) this is a +2 Bunus) | -1 |
+| Maniac              | On a [mood shift](#mood-shift) you will have to go anti-clockwise or clockwise depending on, which mood is lower in the [mood list](#moods).<br>(If you are a [brute](#brute) this is a +2 Bunus) | -1 |
 | Dangerous           | <hr>        |    |
 | Not prepared        | When a [fight](#fights) starts you must skip your first turn. | -2 |
 | Hyperfocus          | Each roll you have to decide which of your [class bonuses](#classes) you want to apply. You can only apply one.<br>(Not available for [pure classes](#classes)) | -2 |
