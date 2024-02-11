@@ -9,6 +9,9 @@
   - [Moods](#moods)
   - [Importance](#importance)
   - [Classes](#classes)
+  - [Specializations](#specializations)
+    - [Boni](#boni)
+    - [Mali](#mali)
   - [Example Characters](#example-characters)
 - [Playing the game](#playing-the-game)
   - [Revelations](#revelations)
@@ -121,7 +124,8 @@ No one cares about them to the point that they can just resurrect after death, a
 
 <!-- omit in toc -->
 #### Support Role
-Dies the death of a hero and inspires other characters, giving everyone surrounding them **+1 on their first check in your spirit**. You can create a new character or take over an NPC the GM doesn’t particularly care about.
+Dies the death of a hero and inspires other characters, giving everyone surrounding them **+1 on their first check in your spirit**. You can create a new character or take over an NPC the GM doesn’t particularly care about. The GM can also decide to resurrect you if they feel like it.
+Support roles [SP](#specializations) can add up to 2 (or lower).
 
 <!-- omit in toc -->
 #### Main character
@@ -140,118 +144,83 @@ A player might also build a charter of **pure** class that gains every bonus twi
 
 [^2]: +1 → +2; Once per session → Twice per session; Choose a → choose two
 
-<!-- omit in toc -->
-#### Protector
-Gain a +1 to your rolls when rolling in favor of anything/anyone but themselves.\
-Can choose a protectee[^3] and will not die as long as that being/object is still alive/not broken.[^4]
+| Class          | Description | Moods |
+| :------------- | :---------- | ----: |
+| Protector      | Gain a +1 to your rolls when rolling in favor of anything/anyone but themselves.<hr>Can choose a protectee[^3] and will not die as long as that being/object is still alive/not broken.[^4] | FPRA |
+| Pilot          | +1 on any check trying to get into or out of trouble.<hr>Can mount/steer/pilot anything without any problems.<hr>(Pure bonus: you will always be able to find a mount somewhere close) | FEPP |
+| Crafter        | +1 on any check against inanimate objects.<hr>Has a bonus [revelation](#revelations) specific to crafting something. | FEEA |
+| Charmer        | +1 on any check when being nice.<hr>Once a session, can make friends with any sentient being. | SERR |
+| Commander      | +1 on any check when being in charge.<hr>If other sentient beings follow their command, they get +1 on checks related to that command. | IFPA |
+| Brute          | +1 on any check against another sentient being.<hr>They also do +1 damage when they are angry or murderous. | AAMM |
+| Scientist      | +1 on any check with the goal of finding something out.<hr>Can ask the GM for a hint once a session. | SIFE |
+| Acrobat        | +1 on any check that relies on your physique.<hr>+2 on any check that is [impossible](#ability-checks). | IEEP |
 
 [^3]: Once per session
 
 [^4]: That person or object has to stay within a reasonable distance of them
 
-FPRA
+### Specializations
 
-<!-- omit in toc -->
-#### Pilot
-+1 on any check trying to get into or out of trouble.\
-Can mount/steer/pilot anything without any problems.\
-(Pure bonus: you will always be able to find a mount somewhere close)
+Every character can choose any number of specialisations [^5] from the list below, plus any the GM may add themselves.
+The sum of specialization points (SP) will have to add up to 0 (or lower) at the end.
 
-FEPP
+[^5]: Though it is not advised to pick too many, as it might get difficult to keep track of all your characters kinks.
 
-<!-- omit in toc -->
-#### Crafter
-+1 on any check against inanimate objects.\
-Has a bonus [revelation](#revelations) specific to crafting something.
+#### Boni
+| Specialization    | Description | SP |
+| :---------------- | :---------- | -: |
+| Neat              | <hr>        |    |
+| Bookworm          | You can always exclaim "I've read about this...!" and on a successfull [ability check](#ability-checks) the GM will have to tell you something (at least vaguely) useful bout the thing you've "read about". | +1 |
+| Happy pills       | Once a session you can set your [mood](#moods) to any mood you want. | +1 |
+| Convenient        | <hr>        |    |
+| Masochist         | Whenever you take [damage](#character-lifespan) you have advantage[^6] on your next [ability check](#ability-checks). | +2 |
+| Beginners Luck    | You have advantage[^6] on any [ability check](#ability-checks) concerning something you have never done before. | +2 |
+| Useful            | <hr>        |    |
+| Special interest  | Xou can choose a **topic X** that you are particularly interested in. You will always succeed in [ability checks](#ability-checks) concerning **topic X**. | +3 |
+| Threatening glare | In a [fight](#fights) you can intimidate the enemy, so that they will attack after your party. | +3 |
+| Powerful          | <hr>        |    |
+| Lucky Bastard     | You can reroll any [ability check](#ability-checks) once, if you want, but you have to take the second result. | +4 |
+| Call bullshit     | Once per session you can call bullshit on something the GM said, and they will have to change it. | +4 |
+| Game changing     | <hr>        |    |
+| Secret Plot/Plan  | You have an extra [revelation](#revelations) that you can reveal at any time.<br>(Not available for [crafters](#crafter)) | +5 |
 
-FEEA
+[^6]: Roll two d10 and take the better result.
 
-<!-- omit in toc -->
-#### Charmer
-+1 on any check when being nice.\
-Once a session, can make friends with any sentient being.
+#### Mali
+| Specialization      | Description | SP |
+| :------------------ | :---------- | -: |
+| Inconvenient        | <hr>        |    |
+| Skill/Knowledge gap | Whenever you try to [check](#ability-checks) for something concerning a **topic X**, that you choose on character creation, you will automatically fail the check. | -1 |
+| Maniac              | On a [mood flip](#mood-shift) you will have to go anti-clockwise or clockwise depending on, which mood is lower in the [mood list](#moods).<br>(If you are a [brute](#brute) this is a +2 Bunus) | -1 |
+| Dangerous           | <hr>        |    |
+| Not prepared        | When a [fight](#fights) starts you must skip your first turn. | -2 |
+| Hyperfocus          | Each roll you have to decide which of your [class bonuses](#classes) you want to apply. You can only apply one.<br>(Not available for [pure classes](#classes)) | -2 |
+| Risky               | <hr>        |    |
+| On the run          | You are being persued by a **party X** of your choosing. At some point in the session (Whenever the GM thinks it appropriate) they will turn up and try to arrest/kill/whatever you. | -3 |
+| Dangerous           | <hr>        |    |
+| Bad Memory          | The GM can change **one thing** about your character at any time. | -4 |
+| Clumsy              | If you fail an [ability check](#ability-checks) you will have to roll another d10, and will take 1 [damage](#character-lifespan) if you roll a 1. | -4 |
+| Suicidal            | <hr>        |    |
+| Fragile             | You will always take 2 [damage](#character-lifespan) instead of 1. | -5 |
 
-SERR
-
-<!-- omit in toc -->
-#### Commander
-+1 on any check when being in charge.\
-If other sentient beings follow their command, they get +1 on checks related to that command.
-
-IFPA
-
-<!-- omit in toc -->
-#### Brute
-+1 on any check against another sentient being.\
-They also do +1 damage when they are angry or murderous.
-
-AAMM
-
-<!-- omit in toc -->
-#### Scientist
-+1 on any check with the goal of finding something out.\
-Can ask the GM for a hint once a session.
-
-SIFE
-
-<!-- omit in toc -->
-#### Acrobat
-+1 on any check that relies on your physique.\
-+2 on any check that is [impossible](#ability-checks).
-
-IEEP
-
-<hr>
+[^7]: Particularily funny, if their genre does not match the current setting.
 
 ### Example Characters
 
-<!-- omit in toc -->
-#### Marty McFly (Main Character)
-Charmer/Pilot
-
-<!-- omit in toc -->
-#### Gandalf (Support Role)
-Protector/Scientist
-
-<!-- omit in toc -->
-#### A con-artist (Bystander)
-Charmer/Brute
-
-<!-- omit in toc -->
-#### Samwise Gamgee (Support Role)
-Pure Protector
-
-<!-- omit in toc -->
-#### Darth Vader (Support Role)
-Commander/Brute
-
-<!-- omit in toc -->
-#### Cave troll (Bystander)
-Pure Brute
-
-<!-- omit in toc -->
-#### A ship repair drone (Bystander)
-Crafter/Protector
-
-<!-- omit in toc -->
-#### Indiana Jones (Main Character)
-Scientist/Acrobat
-
-<!-- omit in toc -->
-#### An army soldier (Bystander)
-Brute/Protector
-
-<!-- omit in toc -->
-#### Robin (Support Role)
-Protector/Acrobat
-
-<!-- omit in toc -->
-#### Mabel Pines (Main Character)
-Charmer/Crafter
-
-<!-- omit in toc -->
-#### Sherlock Holmes (Main Character)
-Pure Scientist
+| Character           | Importance     | Classes                | Specializations |
+| :------------------ | :------------- | :--------------------- | --------------: |
+| Marty McFly         | Main Character | Charmer<br>Pilot       | Beginners Luck (+2)<br>Lucky Bastard (+4)<br>On the run - Biff Tannen (-3)<br>Target on your back (-3) |
+| Gandalf             | Support Role   | Protector<br>Scientist | Bookworm (+1)<br>Secret Plan (+5)<br>Fragile (-5) |
+| A con-artist        | Bystander      | Charmer<br>Brute       | Call bullshit (+4)<br>Maniac (-1)<br>On the run - the police (-3) |
+| Samwise Gamgee      | Support Role   | Pure Protector         | Happy pills (+1)<br>Masochist (+2)<br>Not prepared (-2) |
+| Darth Vader         | Support Role   | Commander<br>Brute     | Threatening glare (+3)<br>Maniac (+2)<br>Bad Memory (-4) |
+| Mabel Pines         | Main Character | Charmer<br>Crafter     | |
+| Cave troll          | Bystander      | Pure Brute             | Threatening glare (+3)<br>Clumsy (-4) |
+| A ship repair drone | Bystander      | Crafter<br>Protector   | Happy pills (+1)<br>Special interest - Spaceships (+3)<br>Fragile (-5) |
+| Indiana Jones       | Main Character | Scientist<br>Acrobat   | Lucky Bastard (+4)<br>Target on your back (-3)<br>Hyperfocus (-2) |
+| An army soldier     | Bystander      | Brute<br>Protector     | |
+| Robin               | Support Role   | Protector<br>Acrobat   | Beginners Luck (+2) |
+| Sherlock Holmes     | Main Character | Pure Scientist         | Secret Plan (+5)<br>On the run - Moriarty (-3)<br>Maniac (-1)<br>Skill gap - Emotions (-1) |
 
 <hr>
 
@@ -278,21 +247,12 @@ They can reward you for finishing [milestones](#milestones) or add their own (op
 
 Characters have 3 states of health they can be in:
 
-<!-- omit in toc -->
-#### Fine
-You are not hurt in any way.
-
-<!-- omit in toc -->
-#### Hurt
-Ouch!
-
-<!-- omit in toc -->
-#### Dying
-’tis but a scratch!
-
-<!-- omit in toc -->
-#### Dead
-Well…
+|                   |                              |
+| :---------------- | :--------------------------- |
+| Fine              | You are not hurt in any way. |
+| Hurt              | Ouch!                        |
+| Dying             | ’tis but a scratch!          |
+| (Dead)            | Well…                        |
 
 When **failing an ability check against someone who has succeeded an ability check** wanting to hurt you, you enter the next stage (or any stage after that if you want to). When you die, look at your [importance](#importance) for the next steps.
 
@@ -300,10 +260,13 @@ When **failing an ability check against someone who has succeeded an ability che
 
 ### Fights
 
+Enemies act first, except if the GM decides otherwise[^8].\
 Players act in (reverse) order of their mood ([Murderous to Sad](#moods)).\
-Each round, they have **two sentences** to explain what they will be doing.\
+Each round, they have to explain what they will be doing.\
 If necessary, they will have to succeed in an [ability check](#ability-checks) to see if their plan works out.\
 They can also use their turn to [reveal](#revelations) something. This takes up all of their turn (even if it “didn’t happen”), but they get to explain it in full.
+
+[^8]: If the party surprises the enemies, set up an ambush or something similar, they can act first.
 
 <hr>
 
@@ -356,9 +319,9 @@ These milestones can be fulfilled in **any order and by any means**. Sometimes k
 ### Enemies
 
 As GM, you can always just make a character and throw them into the mix against your players’ party.\
-For boss enemies, you can expand their health-pool or bind them taking damage to specific actions the characters have to take.[^5]
+For boss enemies, you can expand their health-pool or bind them taking damage to specific actions the characters have to take.[^9]
 
-[^5]: Destroying some sort of magical object, or making blood sacrifices…
+[^9]: Destroying some sort of magical object, or making blood sacrifices…
 
 You can also introduce one-life cardboard soldiers at any time. They can try to do something against your party, but à la stormtrooper-aim, they won’t succeed very often. Just roll a d6 for each of them and let them hit on a 6.
 
