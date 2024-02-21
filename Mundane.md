@@ -100,7 +100,7 @@ Write down two of the following classes on your character sheet. You can ignore 
 | Protector      | +1 on any check when rolling in favor of anything/anyone but them.<hr>Can choose a protectee[^2] and will not die as long as that being/object is still alive/not broken.[^3] | FPRA |
 | Pilot          | +1 on any check trying to get into or out of trouble.<hr>Can mount/steer/pilot anything without any problems.<hr>(Pure bonus: they will always be able to find a mount somewhere close) | FEPP |
 | Crafter        | +1 on any check against inanimate objects.<hr>Has a bonus [revelation](#revelations) specific to crafting something. | FEEA |
-| Charmer        | +1 on any check when being nice.<hr>Once a session, can make friends with any sentient being. | SERR |
+| Charmer        | +1 on any check when being nice.<hr>Once a session, can make friends with any sentient being. The GM may block this ability for a few specific beings which will never become friends. | SERR |
 | Commander      | +1 on any check when being in charge.<hr>If other sentient beings follow their command, they get +1 on checks related to that command. | IFPA |
 | Brute          | +1 on any check against another sentient being.<hr>They also do +1 damage when they are angry or murderous. | AAMM |
 | Scientist      | +1 on any check with the goal of finding something out.<hr>Can ask the GM for a hint once a session. | SIFE |
