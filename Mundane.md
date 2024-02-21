@@ -146,7 +146,7 @@ Write down any specializations, that you want for your character on your charact
 | Inconvenient        | <hr>        |    |
 | Skill/Knowledge gap | Whenever your character tries to [check](#ability-checks) for something concerning a **topic X**, that you choose on character creation, they will automatically fail the check. | -1 |
 | Maniac              | On a [mood shift](#mood-shift) you will have to go anti-clockwise or clockwise on your characters mood circle depending on, which resulting mood is lower in the [mood list](#moods).<br>(If your character is a [brute](#brute) this is a +2 Bunus) | -1 |
-| Dangerous           | <hr>        |    |
+| Troublesome         | <hr>        |    |
 | Not prepared        | When a [fight](#fights) starts your character must skip their first turn. | -2 |
 | Hyperfocus          | Each [check](#ability-checks) your character has to decide which of their [class bonuses](#classes) they want to apply. They can only apply one.<br>(Not available for [pure classes](#classes)) | -2 |
 | Risky               | <hr>        |    |
