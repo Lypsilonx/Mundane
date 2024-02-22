@@ -100,7 +100,7 @@ Write down two of the following classes on your character sheet. You can ignore 
 | Protector      | +1 on any check when rolling in favor of anything/anyone but them.<hr>Can choose a protectee[^2] and will not die as long as that being/object is still alive/not broken.[^3] | FPRA |
 | Pilot          | +1 on any check trying to get into or out of trouble.<hr>Can mount/steer/pilot anything without any problems.<hr>(Pure bonus: they will always be able to find a mount somewhere close) | FEPP |
 | Crafter        | +1 on any check against inanimate objects.<hr>Has a bonus [revelation](#revelations) specific to crafting something. | FEEA |
-| Charmer        | +1 on any check when being nice.<hr>Once a session, can make friends with any sentient being. | SERR |
+| Charmer        | +1 on any check when being nice.<hr>Once a session, can make friends with any sentient being. The GM may block this ability for a few specific beings which will never become friends. | SERR |
 | Commander      | +1 on any check when being in charge.<hr>If other sentient beings follow their command, they get +1 on checks related to that command. | IFPA |
 | Brute          | +1 on any check against another sentient being.<hr>They also do +1 damage when they are angry or murderous. | AAMM |
 | Scientist      | +1 on any check with the goal of finding something out.<hr>Can ask the GM for a hint once a session. | SIFE |
@@ -146,7 +146,7 @@ Write down any specializations, that you want for your character on your charact
 | Inconvenient        | <hr>        |    |
 | Skill/Knowledge gap | Whenever your character tries to [check](#ability-checks) for something concerning a **topic X**, that you choose on character creation, they will automatically fail the check. | -1 |
 | Maniac              | On a [mood shift](#mood-shift) you will have to go anti-clockwise or clockwise on your characters mood circle depending on, which resulting mood is lower in the [mood list](#moods).<br>(If your character is a [brute](#brute) this is a +2 Bunus) | -1 |
-| Dangerous           | <hr>        |    |
+| Troublesome         | <hr>        |    |
 | Not prepared        | When a [fight](#fights) starts your character must skip their first turn. | -2 |
 | Hyperfocus          | Each [check](#ability-checks) your character has to decide which of their [class bonuses](#classes) they want to apply. They can only apply one.<br>(Not available for [pure classes](#classes)) | -2 |
 | Risky               | <hr>        |    |
